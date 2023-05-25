@@ -1,3 +1,5 @@
 welcome to github
 
 this is the place i like to spend my time
+
+this is my first code.
